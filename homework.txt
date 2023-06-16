@@ -1,0 +1,6 @@
+if (oil)
+{
+	right 
+}
+left
+go to 1
